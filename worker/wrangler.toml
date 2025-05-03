@@ -3,5 +3,5 @@ main = "index.js"
 compatibility_date = "2024-05-01"
 
 routes = [
-  { pattern = "conference-booking-api.YOUR_WORKER_SUBDOMAIN.workers.dev", custom_domain = false }
+  { pattern = "conference-booking-api.shayan-hussainzardari.workers.dev", custom_domain = false }
 ]
