@@ -1,0 +1,7 @@
+name = "conference-booking-api"
+main = "index.js"
+compatibility_date = "2024-05-01"
+
+routes = [
+  { pattern = "conference-booking-api.YOUR_WORKER_SUBDOMAIN.workers.dev", custom_domain = false }
+]
