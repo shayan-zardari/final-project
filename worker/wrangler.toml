@@ -2,6 +2,11 @@ name = "conference-booking-api"
 main = "index.js"
 compatibility_date = "2024-05-01"
 
+[[d1_databases]]
+binding = "DB"
+database_name = "conference_db"
+database_id = "<e543b7c5-4de8-4ac9-8a38-43f264c68be2>"
+
 routes = [
   { pattern = "conference-booking-api.shayan-hussainzardari.workers.dev", custom_domain = false }
 ]
